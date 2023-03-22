@@ -1,2 +1,0 @@
-## deriveBeaconResources.m
-
